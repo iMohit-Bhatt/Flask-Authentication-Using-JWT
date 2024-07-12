@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+python-dateutil
+SQLAlchemy
+Werkzeug
+PyJWT
+flask-restx
+requests
+alembic
+boto3
+flask-login
